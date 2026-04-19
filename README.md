@@ -3,7 +3,7 @@
 
 I'm a passionate developer with expertise in building scalable backend systems and full-stack web applications. With a strong foundation in core computer science concepts like OOPS, Data Structures, and DBMS, I focus on creating clean, efficient, and reliable code.
 
-- 🌱 Currently polishing my Python programming and expanding my problem-solving capabilities.
+- 🌱 Currently polishing my Java programming and expanding my problem-solving capabilities.
 - 🎓 B.Tech in AI & Data Science (2021-2025).
 - 💼 Experienced in developing secure REST APIs, managing database relations, and full-stack integration.
 - 📫 How to reach me: **yadavronit927@gmail.com** | [Linkedin](https://linkedin.com/in/ronit-yadav-2a167a36a)
@@ -12,7 +12,7 @@ I'm a passionate developer with expertise in building scalable backend systems a
 
 ### 🛠️ Technical Skills
 
-* **Programming Languages:** Java (Core & Advanced), Python
+* **Programming Languages:** Java (Core & Advanced)
 * **Backend Technologies:** Spring Boot, JDBC, REST APIs
 * **Web Technologies:** HTML, CSS, Bootstrap
 * **Databases:** MySQL (CRUD Operations, Table Design, Queries)
