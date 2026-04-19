@@ -6,7 +6,7 @@ I'm a passionate developer with expertise in building scalable backend systems a
 - 🌱 Currently polishing my Python programming and expanding my problem-solving capabilities.
 - 🎓 B.Tech in AI & Data Science (2021-2025).
 - 💼 Experienced in developing secure REST APIs, managing database relations, and full-stack integration.
-- 📫 How to reach me: **yadavronit927@gmail.com** 
+- 📫 How to reach me: **yadavronit927@gmail.com** | [Linkedin](https://linkedin.com/in/ronit-yadav-2a167a36a)
 
 ---
 
