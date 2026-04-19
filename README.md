@@ -23,12 +23,12 @@ I'm a passionate developer with expertise in building scalable backend systems a
 
 ### 🚀 Highlighted Projects & Repositories
 
-#### 🏦 [Java_Dev] - Banking Management System
+#### 🏦 [Java_Dev](https://github.com/yadavronit/Java_Dev) - Banking Management System
 A standalone Java application designed to handle core banking operations safely and efficiently. 
 * **Tech Stack:** Java, JDBC, MySQL
 * **Features:** Account creation, balance inquiry, deposits/withdrawals, and transaction history tracking. Implemented secure MySQL database connectivity and robust exception handling for data integrity.
 
-#### 🛒 [Web-Dev] - E-Commerce Web Application
+#### 🛒 [Web-Dev](https://github.com/yadavronit/Web-Dev) - E-Commerce Web Application
 A full-stack web application featuring user registration, product listings, and streamlined order management.
 * **Tech Stack:** Spring Boot, MySQL, HTML, CSS
 * **Features:** Developed backend RESTful APIs with Spring Boot and designed a clean, responsive frontend to significantly improve user experience.
